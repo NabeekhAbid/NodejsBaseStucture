@@ -1,0 +1,5 @@
+node-Sequelize/node_modules/
+
+node-Sequelize/server/config/config.json
+
+node-Sequelize/package-lock.json
